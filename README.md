@@ -8,6 +8,7 @@ dash dash dash------
 **Some Screenshots :**
 dash------
 
-**Future Goals : What I do using this model** 
+**Future Goals : What I do using this model**  
+
 Integration with android application and camera.
 text to speech.
