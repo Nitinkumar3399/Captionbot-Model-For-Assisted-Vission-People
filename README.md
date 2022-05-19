@@ -1,4 +1,4 @@
-### Captionbot-Image Caption Generator Model for Assisted vision people
+## Captionbot - Image Caption Generator Model for Assisted vision people  
 
 **Description :** Python based project as captionbot for blind or blurred vision people – Learn to Build Image Caption Generator with CNN & LSTM.
 
