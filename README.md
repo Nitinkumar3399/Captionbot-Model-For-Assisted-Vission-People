@@ -48,21 +48,22 @@ dash dash dash------
 ![img](https://user-images.githubusercontent.com/65066519/169506429-689826c8-ff10-4306-92c1-e36d2c9a27fd.png)
 
 * Convolutional Neural networks are specialized deep neural networks which can process the data that has input shape like a 2D matrix. Images are easily represented as a 2D matrix and CNN is very useful in working with images.
-* CNN is basically used for image classifications and identifying if an image is a bird, a plane or Superman, etc.
-* It scans images from left to right and top to bottom to pull out important features from the image and combines the feature to classify images. It can handle the images that have been translated, rotated, scaled and changes in perspective.
-* In simple word what CNN does is, it extract the feature of image and convert it into lower dimension without loosing its characteristics.
+* CNN is basically used for **image classifications** and identifying if an image is a bird, a plane or Superman, etc.
+* It scans images from **left to right** and **top to bottom** to pull out important features from the image and combines the feature to classify images. It can handle the images that have been **translated**, **rotated**, **scaled** and **changes in perspective**.
+* In simple word what CNN does is, it extract the feature of image and convert it into **lower dimension** without **loosing** its characteristics.
 
 > **Working of LSTM**
 
 ![Lstm](https://user-images.githubusercontent.com/65066519/169509869-7f42a7cf-3a2c-4f1f-ba41-594ed571a6ce.jpg)
 
-* LSTM stands for Long short term memory, they are a type of RNN (recurrent neural network) which is well suited for **sequence prediction problems**.
+* LSTM stands for **Long short term memory**, they are a type of **RNN (recurrent neural network)** which is well suited for **sequence prediction problems**.
 * Based on the previous text, we can predict what the next word will be.
 * It has proven itself effective from the traditional RNN by overcoming the limitations of RNN which had short term memory. 
 * LSTM can carry out relevant information throughout the processing of inputs and with a forget gate, it discards non-relevant information.
 
-So, to make our image caption generator model, we will be merging these architectures. It is also called a CNN-RNN model.
+So, to make our image caption generator model, we will be **merging these architectures**. It is also called a **CNN-RNN** model.
 ![model](https://user-images.githubusercontent.com/65066519/169508812-abe069cf-9608-4cad-bcf9-72dcc7938dcd.jpg)
+
 * CNN is used for extracting features from the image. We will use the pre-trained model Xception.
 * LSTM will use the information from CNN to help generate a description of the image.
 
