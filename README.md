@@ -1,6 +1,8 @@
 ## Captionbot - Image Caption Generator Model for Assisted vision people  
 
-**Description :** Python based project as captionbot for blind or blurred vision people – Learn to Build Image Caption Generator with CNN & LSTM.
+**Description :** Image caption generator is a task that involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.Python based project as captionbot for blind or blurred vision people – Learn to Build Image Caption Generator with CNN & LSTM.
+
+> **Type of Dataset :** For the image caption generator, we will be using the Flickr_8K dataset. There are also other big datasets like Flickr_30K and MSCOCO dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
 
 > **About dataset used for this model**
 * Name of dataset : Flickr_8k dataset  
