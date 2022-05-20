@@ -25,6 +25,9 @@ dash dash dash------
 **Some Screenshots :**
 dash dash dash------
 
+#### Summary :
+We built an image caption generator to create a CNN-RNN model in this Python project. It's important to note that our model is data-driven, so it can't predict words that aren't in its vocabulary. We worked with a tiny dataset of 8000 photos. We need to train production-level models on datasets larger than 100,000 pictures in order to develop better accuracy models.
+
 #### Future Goals :   
 Integration with android application and camera.What I do using this model mentioned the steps below :   
 _**Steps :**_      
@@ -34,6 +37,3 @@ _**Steps :**_
 * Back end -> working Implementation => show output `caption` in `textview` as well as convert this `text to speech` for blind people or blurred vision people.
 * Finally Improve Front end of App for Better Visuals(Colorful and splashscreen & Headlines - Caption Bot for Assisted Vision)
 * App is ready to `predict`.
-
-#### Summary :
-We built an image caption generator to create a CNN-RNN model in this Python project. It's important to note that our model is data-driven, so it can't predict words that aren't in its vocabulary. We worked with a tiny dataset of 8000 photos. We need to train production-level models on datasets larger than 100,000 pictures in order to develop better accuracy models.
