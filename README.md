@@ -22,7 +22,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi/zp-8_Rjsjjg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
-#### GIF tutorial for working of this model  
+#### GIF Tutorial For Working Of This Model  
 ![Image Caption Generator Model](https://github.com/Nitinkumar3399/My_GIFs/blob/master/ICG-giphy.gif)
 
 > **Steps shown in above GIF or video described as below :**
