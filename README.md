@@ -2,6 +2,9 @@
 
 **Description :** Python based project as captionbot for blind or blurred vision people – Learn to Build Image Caption Generator with CNN & LSTM.
 
+* Name of dataset : Flickr_8k dataset  
+* Source of dataset : [Kaggle](https://www.kaggle.com/datasets/ming666/flicker8k-dataset)
+
 #### GIF tutorial of working of this model  
 dash dash dash------
 
