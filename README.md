@@ -22,7 +22,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi//0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
-#### GIF tutorial of working of this model  
+#### GIF tutorial for working of this model  
 dash dash dash------
 
 #### Some Screenshots :    
@@ -43,10 +43,28 @@ dash dash dash------
   * **Testing_caption_generator.py** – Python file for generating a caption of any image.
   * **Training_caption_generator.ipynb** – Jupyter notebook in which we train and build our image caption generator.
 
-> Working of CNN
+> **Working of CNN**
 
-> Working of LSTM
+![img](https://user-images.githubusercontent.com/65066519/169506429-689826c8-ff10-4306-92c1-e36d2c9a27fd.png)
 
+* Convolutional Neural networks are specialized deep neural networks which can process the data that has input shape like a 2D matrix. Images are easily represented as a 2D matrix and CNN is very useful in working with images.
+* CNN is basically used for image classifications and identifying if an image is a bird, a plane or Superman, etc.
+* It scans images from left to right and top to bottom to pull out important features from the image and combines the feature to classify images. It can handle the images that have been translated, rotated, scaled and changes in perspective.
+* In simple word what CNN does is, it extract the feature of image and convert it into lower dimension without loosing its characteristics.
+
+> **Working of LSTM**
+
+![Lstm](https://user-images.githubusercontent.com/65066519/169507572-35af7477-d7d4-4512-b616-8ab3b60083cc.png)
+
+* LSTM stands for Long short term memory, they are a type of RNN (recurrent neural network) which is well suited for **sequence prediction problems**.
+* Based on the previous text, we can predict what the next word will be.
+* It has proven itself effective from the traditional RNN by overcoming the limitations of RNN which had short term memory. 
+* LSTM can carry out relevant information throughout the processing of inputs and with a forget gate, it discards non-relevant information.
+
+So, to make our image caption generator model, we will be merging these architectures. It is also called a CNN-RNN model.
+![model](https://user-images.githubusercontent.com/65066519/169508812-abe069cf-9608-4cad-bcf9-72dcc7938dcd.jpg)
+* CNN is used for extracting features from the image. We will use the pre-trained model Xception.
+* LSTM will use the information from CNN to help generate a description of the image.
 
 #### Summary :
 We built an image caption generator to create a CNN-RNN model in this Python project. It's important to note that our model is data-driven, so it can't predict words that aren't in its vocabulary. We worked with a tiny dataset of 8000 photos. We need to train production-level models on datasets larger than 100,000 pictures in order to develop better accuracy models.
