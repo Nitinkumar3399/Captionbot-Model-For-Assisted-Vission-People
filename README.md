@@ -27,15 +27,15 @@ alt="IMAGE ALT TEXT HERE" width="365" height="236" border="10" /></a>
 
 > **Steps shown in above GIF or video described as below :**
 
-**1.** Open `Anaconda Prompt`.
-**2.** Go to the `path`, where your all project files or dataset `(both testing and training)` present.
-**3.** Now you need to run python file `testing_caption_generator.py`.
-**4.** Before running you need to give a `path to the input image`.
-**5.** For performing a **step 3** and **step 4**, you need to type following command in anaconda prompt  
-   `python testing_caption_generator.py -i "Path to the input image"`
-**6.** After typing the command hit enter `↩`.  
-**7.** After few seconds, you will see a **caption START** and **caption END**.    
-**8.** your required image caption will be present in between the **START** and **END**.
+**1.** Open `Anaconda Prompt`.  
+**2.** Go to the `path`, where your all project files or dataset `(both testing and training)` present.  
+**3.** Now you need to run python file `testing_caption_generator.py`.  
+**4.** Before running you need to give a `path to the input image`.  
+**5.** For performing a **step 3** and **step 4**, you need to type following command in anaconda prompt.      
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `python testing_caption_generator.py -i "Path to the input image"`  
+**6.** After typing the command hit enter `↩`.    
+**7.** After few seconds, you will see a **caption START** and **caption END**.      
+**8.** your required image caption will be present in between the **START** and **END**.  
 
 #### Some Screenshots :    
 dash dash dash------
