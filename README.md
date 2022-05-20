@@ -9,7 +9,7 @@
 * Source of dataset : [Kaggle](https://www.kaggle.com/datasets/ming666/flicker8k-dataset)
 * Description of dataset : Contains 8091 photographs in JPEG format.
 
-> **Download Dataset**
+> **Direct link to download the Dataset**
 * [Flickr_8k dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
 * [Flickr_8k Text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
 
