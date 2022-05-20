@@ -11,7 +11,10 @@
 
 > **Direct link to download the Dataset**
 * [Flickr_8K dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
+  * _Contains 8091 photographs in JPEG format._
 * [Flickr_8K Text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
+  * _The Flickr_8k_text folder contains file Flickr8k.token which is the main file of our dataset that contains image name and their respective captions separated by newline(“\n”)._
+
 
 #### GIF tutorial of working of this model  
 dash dash dash------
