@@ -4,12 +4,12 @@
 
 > **Type of Dataset :** For the image caption generator, we will be using the Flickr_8K dataset. There are also other big datasets like Flickr_30K and MSCOCO dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
 
-> **About dataset used for this model**
+> **About Dataset used for this model**
 * Name of dataset : Flickr_8k dataset  
 * Source of dataset : [Kaggle](https://www.kaggle.com/datasets/ming666/flicker8k-dataset)
 * Description of dataset : Contains 8091 photographs in JPEG format.
 
-> **Download dataset**
+> **Download Dataset**
 * [Flickr_8k dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
 * [Flickr_8k Text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
 
