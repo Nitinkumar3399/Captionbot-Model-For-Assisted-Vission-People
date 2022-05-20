@@ -54,7 +54,7 @@ dash dash dash------
 
 > **Working of LSTM**
 
-![Lstm](https://user-images.githubusercontent.com/65066519/169507572-35af7477-d7d4-4512-b616-8ab3b60083cc.png)
+![Lstm](https://user-images.githubusercontent.com/65066519/169509869-7f42a7cf-3a2c-4f1f-ba41-594ed571a6ce.jpg)
 
 * LSTM stands for Long short term memory, they are a type of RNN (recurrent neural network) which is well suited for **sequence prediction problems**.
 * Based on the previous text, we can predict what the next word will be.
