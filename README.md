@@ -19,8 +19,9 @@ dash dash dash------
 **Some Screenshots :**
 dash------
 
-**Future Goals : What I do using this model**  
+**Future Goals :**
 
+What I do using this model mentioned the steps below :  
 _**Steps :**_      
 * First of all train ML Model on `Best dataset`(so that it can predict better) and Create `tflite`. 
 * After Creating tflite, Build or integrate this `model.tflite` in android studio.
