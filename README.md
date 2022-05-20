@@ -5,7 +5,8 @@
 * CNN is used for extracting features from the image. We will use the pre-trained model Xception.
 * LSTM will use the information from CNN to help generate a description of the image.
 
-> **Type of Dataset :** For the image caption generator, we will be using the **Flickr_8K dataset**. There are also other big datasets like **Flickr_30K** and **MSCOCO** dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
+> **Type of Dataset :** 
+* For the image caption generator, we will be using the **Flickr_8K dataset**. There are also other big datasets like **Flickr_30K** and **MSCOCO** dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
 
 > **About Dataset used for this model**
 * Name of dataset : Flickr_8K dataset  
