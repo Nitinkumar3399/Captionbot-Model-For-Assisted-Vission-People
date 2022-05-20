@@ -2,16 +2,16 @@
 
 **Description :** Image caption generator is a task that involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.Python based project as captionbot for blind or blurred vision people – Learn to Build Image Caption Generator with CNN & LSTM.
 
-> **Type of Dataset :** For the image caption generator, we will be using the Flickr_8K dataset. There are also other big datasets like Flickr_30K and MSCOCO dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
+> **Type of Dataset :** For the image caption generator, we will be using the **Flickr_8K dataset**. There are also other big datasets like **Flickr_30K** and **MSCOCO** dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
 
 > **About Dataset used for this model**
-* Name of dataset : Flickr_8k dataset  
+* Name of dataset : Flickr_8K dataset  
 * Source of dataset : [Kaggle](https://www.kaggle.com/datasets/ming666/flicker8k-dataset)
 * Description of dataset : Contains 8091 photographs in JPEG format.
 
 > **Direct link to download the Dataset**
-* [Flickr_8k dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
-* [Flickr_8k Text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
+* [Flickr_8K dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
+* [Flickr_8K Text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
 
 #### GIF tutorial of working of this model  
 dash dash dash------
