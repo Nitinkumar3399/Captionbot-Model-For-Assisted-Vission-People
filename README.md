@@ -19,7 +19,7 @@
 * [Flickr_8K Text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
   * _The Flickr_8k_text folder contains file Flickr8k.token which is the main file of our dataset that contains image name and their respective captions separated by newline(“\n”)._
 
-### Complete App Demo Video Given Below ⬇
+### Complete Demo Video Given Below ⬇
 ##### Click on image
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=
 " target="_blank"><img src="http://img.youtube.com/vi//0.jpg" 
