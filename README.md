@@ -80,9 +80,11 @@ So, to make our image caption generator model, we will be **merging these archit
 * LSTM will use the information from CNN to help generate a description of the image.
 
 > **Summary** 
+
 We built an image caption generator to create a CNN-RNN model in this Python project. It's important to note that our model is data-driven, so it can't predict words that aren't in its vocabulary. We worked with a tiny dataset of 8000 photos. We need to train production-level models on datasets larger than 100,000 pictures in order to develop better accuracy models.
 
 > **Future Goals**
+
 Integration with android application and camera.What I do using this model mentioned the steps below :   
 _**Steps :**_      
 * First of all train ML Model on `Best dataset`(so that it can predict better) and Create `tflite` model using TensorflowLite. 
