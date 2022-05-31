@@ -113,3 +113,5 @@ _**Steps :**_
 * Back end Implementation -- show output `caption` in `textview` as well as convert this `text to speech` for blind people or blurred vision people.
 * Finally Improve Front end of App for Better Visuals(Colorful and splashscreen & Headlines - Caption Bot for Assisted Vision)
 * App is ready to `predict`.
+
+> _**ICG Model By Nitin Kumar**_
