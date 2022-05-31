@@ -99,13 +99,17 @@ So, to make our image caption generator model, we will be **merging these archit
 
 We built an image caption generator to create a CNN-RNN model in this Python project. It's important to note that our model is data-driven, so it can't predict words that aren't in its vocabulary. We worked with a tiny dataset of 8000 photos. We need to train production-level models on datasets larger than 100,000 pictures in order to develop better accuracy models.
 
-> **Future Goals**
+> **Future Goals**  
+
+* Image captions used in self-driving cars where in it could describe the scene around the car.
+* Secondly could be an aid to the people who are blind as it could guide them in every way by converting scenes to caption and then to audio.
+* CCTV cameras where the alarms could be raised if any malicious activity is observed while describing the scene, recommendations in editing, social media posts, and many more.
 
 Integration with android application and camera.What I do using this model mentioned the steps below :   
 _**Steps :**_      
-* First of all train ML Model on `Best dataset`(so that it can predict better) and Create `tflite` model using TensorflowLite. 
+* First of all train ML Model on `Large dataset`(so that it can predict better) and Create `tflite` model using TensorflowLite. 
 * After Creating tflite, Build or integrate this `model.tflite` in android studio.
-* Front end -> `ImageView`, `TextView`, `select(From Internal)`, `capture(Camera)` and `predict` button in Android Studio.
-* Back end -> working Implementation => show output `caption` in `textview` as well as convert this `text to speech` for blind people or blurred vision people.
+* Front end Implementation -- `ImageView`, `TextView`, `select(From Internal)`, `capture(Camera)` and `predict` button in Android Studio.
+* Back end Implementation -- show output `caption` in `textview` as well as convert this `text to speech` for blind people or blurred vision people.
 * Finally Improve Front end of App for Better Visuals(Colorful and splashscreen & Headlines - Caption Bot for Assisted Vision)
 * App is ready to `predict`.
