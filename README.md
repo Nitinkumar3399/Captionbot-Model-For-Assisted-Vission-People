@@ -3,11 +3,12 @@
 **Description :** Image caption generator is a task that involves natural language processing (NLP) concepts to recognize the context of an image and describe them in a natural language like English.Python based project as captionbot for blind or blurred vision people – Learn to Build Image Caption Generator with **CNN & LSTM**.
 
 > **Libraries Used :**
-* pip install tensorflow
-* keras
-* pillow
-* numpy
-* tqdm
+* **Tensorflow :** It's an open-source library that supports deep learning using Python etc frameworks. 
+* **Keras :** It's an open-source Python library that allows to evaluate the deep learning models. 
+* **Pillow :** Pillow is a Python Imaging Library (PIL), that adds support for opening, manipulating, and saving images. 
+* **Numpy :** To work with arrays, Numpy library is used. 
+* **Matplotlib :** Library to create static and animated visualizations in Python framework.
+* **Tqdm :** tqdm is a library in Python which is used for creating Progress Meters or Progress Bars.
 
 > **Type of Dataset :** 
 * For the image caption generator, we will be using the **Flickr_8K dataset**. There are also other big datasets like **Flickr_30K** and **MSCOCO** dataset but it can take weeks just to train the network so we will be using a small Flickr8k dataset. The advantage of a huge dataset is that we can build better models.
