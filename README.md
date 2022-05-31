@@ -41,7 +41,7 @@ alt="IMAGE ALT TEXT HERE" width="365" height="236" border="10" /></a>
 **4.** Before running you need to give a `path to the input image`.  
 **5.** For performing a **step 3** and **step 4**, you need to type following command in anaconda prompt.      
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `python testing_caption_generator.py -i "Path to the input image"`  
-**6.** After typing the command hit enter `↩`.    
+**6.** After typing the command, hit enter `↩`.    
 **7.** After few seconds, you will see a **caption START** and **caption END**.      
 **8.** your required image caption will be present in between the **START** and **END**.  
 
