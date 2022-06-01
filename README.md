@@ -1,3 +1,4 @@
+> _**ICG Model By Nitin Kumar**_
 ## Captionbot - Image Caption Generator Model for Assisted vision people  
 
 **Description :** Image caption generator is a task that involves natural language processing (NLP) concepts to recognize the context of an image and describe them in a natural language like English.Python based project as captionbot for blind or blurred vision people – Learn to Build Image Caption Generator with **CNN & LSTM**.
