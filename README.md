@@ -47,7 +47,7 @@ alt="IMAGE ALT TEXT HERE" width="365" height="236" border="10" /></a>
 **7.** After few seconds, you will see a **caption START** and **caption END**.      
 **8.** your required image caption will be present in between the **START** and **END**.  
 
-#### Some Screenshots :    
+#### Demonstration Via Some Screenshots :    
 
 ![img1](https://user-images.githubusercontent.com/65066519/169573484-befae699-5e84-4a8b-a364-fc73c9384d6c.jpg)
 ![img5](https://user-images.githubusercontent.com/65066519/169573530-d938e3a7-f4d6-4e99-9a5a-cf4974171266.jpg)
